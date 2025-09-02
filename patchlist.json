@@ -1968,5 +1968,26 @@
         "PatchNotes_ja": "",
         "ReleaseDate": 1754483160,
         "Version": "7.3"
+    },
+    {
+        "Banner": "https://img.finalfantasyxiv.com/t/e0d5d1beea95c9dc0e71f280e24da25c699e1216.jpg?1756793849",
+        "ID": 109,
+        "Url": "/patch+7.31",
+        "ExVersion": 5,
+        "ExName": "Dawntrail",
+        "IsExpansion": false,
+        "Name_ja": "Patch 7.31",
+        "Name_en": "Patch 7.31",
+        "Name_fr": "Patch 7.31",
+        "Name_de": "Patch 7.31",
+        "Name_cn": "Patch 7.31",
+        "Name_kr": "Patch 7.31",
+        "Gamever": "2025.08.22.0000.0000",
+        "PatchNotes_de": "",
+        "PatchNotes_en": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/e0d5d1beea95c9dc0e71f280e24da25c699e1216",
+        "PatchNotes_fr": "",
+        "PatchNotes_ja": "",
+        "ReleaseDate": 1756807420,
+        "Version": "7.31"
     }
 ]
