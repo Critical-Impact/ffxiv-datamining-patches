@@ -2010,5 +2010,26 @@
         "PatchNotes_ja": "",
         "ReleaseDate": 1759841021,
         "Version": "7.35"
+    },
+    {
+        "Banner": null,
+        "ID": 111,
+        "Url": "/patch+7.38",
+        "ExVersion": 5,
+        "ExName": "Dawntrail",
+        "IsExpansion": false,
+        "Name_ja": "Patch 7.38",
+        "Name_en": "The Promise of Tomorrow",
+        "Name_fr": "Patch 7.38",
+        "Name_de": "Patch 7.38",
+        "Name_cn": "Patch 7.38",
+        "Name_kr": "Patch 7.38",
+        "Gamever": "2025.10.30.0000.0000",
+        "PatchNotes_de": "",
+        "PatchNotes_en": "https://na.finalfantasyxiv.com/lodestone/topics/detail/85a6675e2d561446784faae5a43fac4af65554f1",
+        "PatchNotes_fr": "",
+        "PatchNotes_ja": "",
+        "ReleaseDate": 1762783200,
+        "Version": "7.38"
     }
 ]
