@@ -2031,5 +2031,26 @@
         "PatchNotes_ja": "",
         "ReleaseDate": 1762783200,
         "Version": "7.38"
+    },
+    {
+        "Banner": "https://img.finalfantasyxiv.com/t/06944d892fd98cc00b2a28ff77edbafa4f7eef54.jpg?1765865974",
+        "ID": 112,
+        "Url": "/patch+7.4",
+        "ExVersion": 5,
+        "ExName": "Dawntrail",
+        "IsExpansion": false,
+        "Name_ja": "Patch 7.4",
+        "Name_en": "Into the Mist",
+        "Name_fr": "Patch 7.4",
+        "Name_de": "Patch 7.4",
+        "Name_cn": "Patch 7.4",
+        "Name_kr": "Patch 7.4",
+        "Gamever": "2025.12.09.0000.0000",
+        "PatchNotes_de": "",
+        "PatchNotes_en": "https://na.finalfantasyxiv.com/lodestone/topics/detail/06944d892fd98cc00b2a28ff77edbafa4f7eef54",
+        "PatchNotes_fr": "",
+        "PatchNotes_ja": "",
+        "ReleaseDate": 1765873573,
+        "Version": "7.4"
     }
 ]
