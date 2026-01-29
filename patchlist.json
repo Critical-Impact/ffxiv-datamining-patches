@@ -2052,5 +2052,26 @@
         "PatchNotes_ja": "",
         "ReleaseDate": 1765873573,
         "Version": "7.4"
+    },
+    {
+        "Banner": null,
+        "ID": 113,
+        "Url": "/patch+7.41",
+        "ExVersion": 5,
+        "ExName": "Dawntrail",
+        "IsExpansion": false,
+        "Name_ja": "Patch 7.41",
+        "Name_en": "Into the Mist 7.41",
+        "Name_fr": "Patch 7.41",
+        "Name_de": "Patch 7.41",
+        "Name_cn": "Patch 7.41",
+        "Name_kr": "Patch 7.41",
+        "Gamever": "2026.01.21.0000.0000",
+        "PatchNotes_de": "",
+        "PatchNotes_en": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fa89e48b03a6bf6deac50a23fdfc39f7df64fb2a",
+        "PatchNotes_fr": "",
+        "PatchNotes_ja": "",
+        "ReleaseDate": 1769691109,
+        "Version": "7.41"
     }
 ]
