@@ -2094,5 +2094,26 @@
         "PatchNotes_ja": "",
         "ReleaseDate": 1772536557,
         "Version": "7.45"
+    },
+    {
+        "Banner": "https://lds-img.finalfantasyxiv.com/promo/h/a/F95kIyFJBfnXUKrHOXWKssgA5Q.jpg",
+        "ID": 115,
+        "Url": "/patch+7.5",
+        "ExVersion": 5,
+        "ExName": "Dawntrail",
+        "IsExpansion": false,
+        "Name_ja": "Patch 7.5",
+        "Name_en": "Trail to the Heavens 7.5",
+        "Name_fr": "Patch 7.5",
+        "Name_de": "Patch 7.5",
+        "Name_cn": "Patch 7.5",
+        "Name_kr": "Patch 7.5",
+        "Gamever": "2026.04.21.0000.0000",
+        "PatchNotes_de": "",
+        "PatchNotes_en": "https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822",
+        "PatchNotes_fr": "",
+        "PatchNotes_ja": "",
+        "ReleaseDate": 1777532892,
+        "Version": "7.5"
     }
 ]
