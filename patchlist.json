@@ -2115,5 +2115,26 @@
         "PatchNotes_ja": "",
         "ReleaseDate": 1777532892,
         "Version": "7.5"
+    },
+    {
+        "Banner": null,
+        "ID": 116,
+        "Url": "/patch+7.51",
+        "ExVersion": 5,
+        "ExName": "Dawntrail",
+        "IsExpansion": false,
+        "Name_ja": "Patch 7.51",
+        "Name_en": "Trail to the Heavens 7.51",
+        "Name_fr": "Patch 7.51",
+        "Name_de": "Patch 7.51",
+        "Name_cn": "Patch 7.51",
+        "Name_kr": "Patch 7.51",
+        "Gamever": "2026.05.25.0000.0000",
+        "PatchNotes_de": "",
+        "PatchNotes_en": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c46881a31a2c90d0965493c921b434eca09113f8",
+        "PatchNotes_fr": "",
+        "PatchNotes_ja": "",
+        "ReleaseDate": 1780399456,
+        "Version": "7.51"
     }
 ]
