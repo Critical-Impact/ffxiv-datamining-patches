@@ -35,7 +35,7 @@ function generateSheetClass(sheetName: string) {
     );
 
     let currentPatch = PatchList[PatchList.length - 1];
-    const gamever = readFileSync(`C:\\Program Files (x86)\\SquareEnix\\FINAL FANTASY XIV - A Realm Reborn\\game\\ffxivgame.ver`, 'utf8');
+    const gamever = readFileSync(`/home/blair/.xlcore/ffxiv/game/ffxivgame.ver`, 'utf8');
 
     if (gamever === (currentPatch as any).Gamever) {
         console.error('Gamever did not change, forgot to update client?');
@@ -75,7 +75,7 @@ function generateSheetClass(sheetName: string) {
         writeFileSync(join(__dirname, 'patchlist.json'), JSON.stringify([...PatchList, newPatchEntry], null, 4));
     }
 
-    const kobold = await buildKoboldXIV();
+    const kobold = await buildKoboldXIV({path:'/home/blair/.xlcore/ffxiv'});
     const excel = new Excel({kobold});
     // Get the list of all root sheets
     const excelList = await kobold.getFile('exd/root.exl', ExcelList);
